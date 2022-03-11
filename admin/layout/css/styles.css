@@ -1,0 +1,70 @@
+form.login {
+	max-width: 300px;
+	margin: 80px auto;
+	text-transform: capitalize;
+}
+
+form.login h1 {
+	text-transform: uppercase;
+	color: #5cb85c;
+	margin-bottom: 40px;
+}
+
+label.login {
+	color: #5cb85c;
+}
+
+input.login {
+	margin-bottom: 10px;
+}
+
+
+form.member {
+	margin: 40px 0px;
+	text-transform: capitalize;
+}
+
+form.member h1 {
+	text-transform: uppercase;
+	color: #5cb85c;
+	margin-bottom: 40px;
+}
+
+form label.member {
+	color: #5cb85c;
+	font-weight: bold;
+}
+
+form input.btn {
+	margin-top: 20px;
+}
+
+input.member {
+	position: relative;
+}
+
+
+
+.astrid {
+	position: absolute;
+	color: red;
+	top: 0px;
+	right: 30px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+/* navabr */
+
+.navbar-dark {
+	text-transform: capitalize;
+}
+
+.dropdown-menu {
+	padding: 0;
+}
+
+.dropdown-item:active {
+	background-color: #5cb85c;
+}
